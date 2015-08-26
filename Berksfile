@@ -16,3 +16,4 @@ cookbook 'elasticsearch', git: 'git://github.com/elasticsearch/cookbook-elastics
 cookbook 'mongodb', git: 'git://github.com/edelight/chef-mongodb'
 cookbook 'phpmyadmin', git: 'git://github.com/priestjim/chef-phpmyadmin.git', tag: '1.0.7'
 cookbook 'php', git: 'git://github.com/priestjim/chef-php.git', tag: '1.2.0'
+cookbook 'yumrepo', git: 'git://github.com/priestjim/chef-yumrepo.git'

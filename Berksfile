@@ -15,4 +15,4 @@ cookbook 'yum-epel', '>= 0.3.4', git: 'git://github.com/opscode-cookbooks/yum-ep
 cookbook 'elasticsearch', git: 'git://github.com/elasticsearch/cookbook-elasticsearch.git', tag: 'v0.3.14'
 cookbook 'mongodb', git: 'git://github.com/edelight/chef-mongodb'
 cookbook 'phpmyadmin', git: 'git://github.com/priestjim/chef-phpmyadmin.git', tag: '1.0.7'
-cookbook 'chef-php', git: 'git://github.com/priestjim/chef-php.git', tag: '1.2.0'
+cookbook 'php', git: 'git://github.com/priestjim/chef-php.git', tag: '1.2.0'
